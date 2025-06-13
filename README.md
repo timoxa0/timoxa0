@@ -9,5 +9,5 @@
 - [silk-guardian](https://github.com/timoxa0/silk-guardian) - Kill switch for usb devices, build as linux kernel module
 
 #### Contacts:
-- Telegram: [@tx0.su](https://tg.tx0.su)
+- Telegram: [@tx0su](https://tg.tx0.su)
 - Email: [me@tx0.su](mailto:me@tx0.su)
